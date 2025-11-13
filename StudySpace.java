@@ -79,5 +79,36 @@ public class StudySpace extends JFrame {
                 "Indoors",
                 "Very Quiet"
         );
+        new StudySpace(
+                :"Commons",
+                "Library, 2nd Floor",
+                "Perfect for individual and group study, also has tutoring available. Comfortable seating with outlets.",
+                "commons.jpg",
+                400,
+                300,
+                "Indoors",
+                "Quiet"
+        new StudySpace(
+                "Cafe",
+                "Library, 1st Floor",
+                "Good for individual study and group study. A more social feel compared to other study areas.",
+                "cafe.jpg",
+                400,
+                300,
+                "Indoors",
+                "Noisy"
+        );
+        );
+        new StudySpace(
+                "Science Building",
+                "Naraghi Hall of Science, 1st Floor",
+                "Good for individual study. A more casual feel with variety of seating with outlets.",
+                "science.jpg",
+                400,
+                300,
+                "Indoors",
+                "Quiet"
+        );
+        
     }
 }
